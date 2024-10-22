@@ -1,0 +1,143 @@
+ABRIR O Winexp : "c:\Users\Heberton\Desktop\folder\winexp\winexp.exe"
+
+
+CLICAR NO ICONE DE VALORANT : Point(x=409, y=1058)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+CLICAR NO ICONE DE CONFIGURACAO VALORANT: Point(x=1892, y=17)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+CLICA EM CONFIGURACAO : Point(x=954, y=404)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+CLICA EM "VIDEO": Point(x=1074, y=18)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+CLICA EM TELA CHEIA: Point(x=1052, y=155)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+COLOCA EM MODO JANELA: Point(x=1008, y=226)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+CLICA EM APLICAR: Point(x=1084, y=366)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+CLICA EM CONFIRMAR: Point(x=795, y=645)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+VAI PARA AREA DE TRABALHO: Point(x=1918, y=1057)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+COLOCA O PONTEIRO NA AREA DE TRABALHO: Point(x=1513, y=498)
+(clica com o botao direito)
+(espera 1 segundo)
+
+
+CLICA EM CIMA CONFIGURACOES DE EXIBICAO: Point(x=1593, y=713)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+
+ROLA A ABA PRA BAIXO: Point(x=1908, y=989)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+
+CLICA NA RESOLUCAO DE TELA: Point(x=451, y=607)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+
+TROCA A RESOLUCAO PARA 1340 x 1080: Point(x=439, y=578)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+
+CLICA EM MANTER CONFIRMACAO DE RESOLUCAO: Point(x=805, y=556)
+(clica com o botao esquerdo)
+(espera 4 segundo)
+
+
+CLICA EM CONFIGURACOES AVANCADAS DE TELA: Point(x=429, y=907)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+CLICA NA TAXA DE ATUALIZACAO DE HZ: Point(x=121, y=686)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+TROCA PARA 75HZ : Point(x=105, y=721)
+(clica com o botao esquerdo)
+(espera 4 segundo)
+
+
+CLICA EM MANTER ALTERACOES: Point(x=806, y=556)
+(clica com o botao esquerdo)
+(espera 2 segundo)
+
+
+FECHA O GERENCIADOR DE RESOLUCAO: Point(x=1317, y=12)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+ABRIR O Winexp 
+os.startfile(r"c:\Users\Heberton\Desktop\folder\winexp\winexp.exe")
+time.sleep(3)
+
+
+
+ROLA A BARRA DO WINEXP PRA BAIXO : Point(x=518, y=207)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+
+CLICA NO VALORANT: Point(x=90, y=217)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+VAI NA ABA STYLE: Point(x=342, y=261)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+DESMARCA A OPCAO WS_BORDER: Point(x=39, y=402)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+VAI PARA A ABA "Size & Position": Point(x=108, y=262)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
+
+MARCA A OPCAO "MAXIMIZED": Point(x=273, y=334)
+(clica com o botao esquerdo)
+(espera 1 segundo)
+
