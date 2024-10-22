@@ -2,6 +2,7 @@ import os
 import time
 import pyautogui
 
+
 # tempo de espera ate a execucao do script 
 time.sleep(3)
 
@@ -118,7 +119,7 @@ pyautogui.moveTo(272, 332, duration=1.3)
 pyautogui.click()
 time.sleep(1.3)
 
-
+print(f"roberto")
 
 
 
